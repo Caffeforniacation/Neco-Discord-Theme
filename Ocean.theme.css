@@ -45,5 +45,6 @@
   --watermark-filter-brightness: 100%;
   --watermark-filter-contrast: 200%;
   --ocean-emoji-picker-color: 150deg;
+  --ocean-blur: 60%;
 }
 
